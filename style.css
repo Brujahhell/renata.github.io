@@ -33,6 +33,7 @@ body {
   z-index:50;
 }
 a {
+  font-size:large;
   color:inherit;
   text-decoration:none;
 }
