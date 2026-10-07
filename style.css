@@ -476,7 +476,7 @@ a {
 .content-card img {
   display:block;
   width:100%;
-  aspect-ratio:1/1.18;
+  aspect-ratio:1/1.30;
   object-fit:cover;
 }
 .content-card div {
