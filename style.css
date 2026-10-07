@@ -140,7 +140,7 @@ a {
   min-height:720px;
   max-width:var(--max);
   margin:auto;
-  padding:75px 5% 75px;
+  padding:75px 4% 75px;
   display:grid;
   grid-template-columns:1.04fr .96fr;
   align-items:center;
