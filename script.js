@@ -1,6 +1,6 @@
 // ===== CONFIGURAÇÃO RÁPIDA =====
 // Troque pelo WhatsApp real, com DDI + DDD e somente números.
-const WHATSAPP_NUMBER = "5500000000000";
+const WHATSAPP_NUMBER = "+5527998665299";
 const message = encodeURIComponent("Olá, Renata! Vim pelo seu site e gostaria de saber mais sobre os atendimentos.");
 const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${message}`;
 document.getElementById("whatsappBtn").href = whatsappUrl;
